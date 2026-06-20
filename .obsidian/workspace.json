@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "4c7dc601ec5b5880",
+    "type": "split",
+    "children": [
+      {
+        "id": "19851a22e8487ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "218ac105cf763c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PREFLOP RANGES/vsRFI-EP/2. MP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. MP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c010f741ff7b3fa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "74308c8ff161eb6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16da7b82c71cc98c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f74f1b2201667a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8c6549082292747",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccfa88cb31cb6ad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a79817a7d389143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bb3697889082dcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UTG, EARLY, OTR, BLUFF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for UTG, EARLY, OTR, BLUFF"
+            }
+          },
+          {
+            "id": "da287f6d2f4d9eee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UTG, EARLY, OTR, BLUFF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from UTG, EARLY, OTR, BLUFF"
+            }
+          },
+          {
+            "id": "8b8b92818f6511b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87d40a2e7272ff0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UTG, EARLY, OTR, BLUFF.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of UTG, EARLY, OTR, BLUFF"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "218ac105cf763c1e",
+  "lastOpenFiles": [
+    "PREFLOP RANGES/vsRFI-EP/1. EP.md",
+    "PREFLOP RANGES/vsRFI-EP/3. HJ.md",
+    "PREFLOP RANGES/vsRFI-EP/4. CO.md",
+    "PREFLOP RANGES/vsRFI-EP/2. MP.md",
+    "PREFLOP RANGES/RFI/5. BTN.md",
+    "PREFLOP RANGES/RFI/4. CO.md",
+    "PREFLOP RANGES/RFI/3. HJ.md",
+    "PREFLOP RANGES/RFI/2. MP.md",
+    "PREFLOP RANGES/RFI/1. EP.md",
+    "2. FLOP/UTG/C-BETTING UTG vs UTG1.md",
+    "1. PREFLOP/UTG/UTG vs 3B from MP.md",
+    "1. PREFLOP/BB/ITM BB vs open EP.md",
+    "1. PREFLOP/BB/ITM BB defending MW 10BB stack.md",
+    "1. PREFLOP/BB/ITM BB vs open MP.md",
+    "1. PREFLOP/BB/ITM PKO BB defend 20BB Stack vs CO open.md",
+    "Pasted image 20260613003126 - Copy.png",
+    "Pasted image 20260314163444 - Copy.png",
+    "Pasted image 20260314163435 - Copy.png",
+    "Pasted image 20260613003359 - Copy.png",
+    "Pasted image 20250321170037 - Copy.png",
+    "Pasted image 20250311052135 - Copy.png",
+    "Pasted image 20250311052112 - Copy.png",
+    "Pasted image 20250227190831 - Copy.png",
+    "Pasted image 20250227190741 - Copy.png",
+    "Pasted image 20250321170049 - Copy.png",
+    "PREFLOP RANGES/RFI/6. SB.md",
+    "PREFLOP RANGES/vsRFI-EP/6. SB.md",
+    "PREFLOP RANGES/vsRFI-EP/5. BTN.md",
+    "PREFLOP RANGES/vsRFI-EP",
+    "PREFLOP RANGES/RFI",
+    "STUDY SESH/Topic - 25GG Masters.md",
+    "PREFLOP RANGES",
+    "STUDY SESH/1on1.md",
+    "NOTES.md",
+    "STUDY SESH",
+    "5. BUBBLE/MP/Opening from LJ off 21BBs Bubble.md",
+    "5. BUBBLE/MP/LJ open facing 3bet from HJ near Bubble Vanilla.md",
+    "6. ICM/SB/SB vs open UTG 30eff ICM.md",
+    "2. FLOP/BB/X-R BB vs BTN CEv.md",
+    "2. FLOP/MP/LJ C-bet MW covered PKO.md",
+    "6. ICM/BB/BB deffend vs CO last 2 tables PKO",
+    "7. FINAL TABLE/UTG",
+    "7. FINAL TABLE/SB",
+    "7. FINAL TABLE/MP",
+    "7. FINAL TABLE/LP",
+    "7. FINAL TABLE/BB"
+  ]
+}
